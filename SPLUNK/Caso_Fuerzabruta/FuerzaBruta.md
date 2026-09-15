@@ -452,12 +452,12 @@ splunk-bruteforce-detection/
 ├── README.md
 │
 ├── images/
-│   ├── 01-configuracion-splunk.png
-│   ├── 02-ejecucion-script.png
-│   ├── 03-bruteforce.png
-│   ├── 04-event-viewer.png
-│   ├── 05-spl-query.png
-│   └── 06-alert.png
+│   ├── configuracion-splunk.png
+│   ├── ejecucion-script.png
+│   ├── bruteforce.png
+│   ├── event-viewer.png
+│   ├── spl-query.png
+│   └── alert.png
 │
 └── queries/
     └── brute_force_detection.spl
@@ -480,7 +480,7 @@ https://github.com/InfosecMatter/Minimalistic-offensive-security-tools/blob/mast
 
 ## 👨‍💻 Autor
 
-**Lerman Torres**
+**Lerman T**
 
 Proyecto desarrollado como parte de un laboratorio práctico de ciberseguridad y monitoreo mediante SIEM.
 
