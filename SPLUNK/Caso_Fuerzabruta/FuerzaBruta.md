@@ -107,9 +107,7 @@ Centralizar los eventos de seguridad en Splunk para posteriormente realizar cons
 
 📷 **Evidencia:**
 
-![Configuración de Splunk](images/01-configuracion-splunk.png)
-
-> Ajusta el nombre de la imagen anterior al nombre real que tengas dentro de tu carpeta.
+puerto_escucha.png
 
 ---
 
