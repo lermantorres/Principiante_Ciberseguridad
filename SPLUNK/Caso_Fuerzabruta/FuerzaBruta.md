@@ -143,7 +143,7 @@ Este comando permite cargar y ejecutar el contenido del script directamente desd
 
 📷 **Evidencia:**
 
-![Ejecución del script](images/02-ejecucion-script.png)
+![Ejecución del script](images/ejecucion-script.png)
 
 ---
 
@@ -169,7 +169,7 @@ El objetivo es generar múltiples intentos de autenticación fallidos contra el 
 
 📷 **Evidencia:**
 
-![Ataque Brute Force simulado](images/03-bruteforce.png)
+![Ataque Brute Force simulado](images/bruteforce.png)
 
 ---
 
@@ -203,7 +203,7 @@ Este evento representa un inicio de sesión exitoso.
 
 📷 **Evidencia:**
 
-![Windows Event Viewer](images/04-event-viewer.png)
+![Windows Event Viewer](images/event-viewer.png)
 
 ---
 
@@ -275,7 +275,7 @@ Este umbral permite identificar un comportamiento potencialmente asociado a un a
 
 📷 **Evidencia:**
 
-![Consulta SPL Brute Force](images/05-spl-query.png)
+![Consulta SPL Brute Force](images/spl-query.png)
 
 ---
 
@@ -313,7 +313,7 @@ Generar una notificación cuando se detecte una cantidad elevada de intentos fal
 
 📷 **Evidencia:**
 
-![Alerta en Splunk](images/06-alert.png)
+![Alerta en Splunk](images/alert.png)
 
 ---
 

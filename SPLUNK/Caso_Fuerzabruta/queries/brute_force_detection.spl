@@ -1,0 +1,3 @@
+index=wineventlog source="WinEventLog:Security" (EventCode=4624 OR EventCode=4625)
+| stats count(eval(EventCode=4624)) as successful_logons, count(eval(EventCode=4625)) as login_failures by Nombre_de_cuenta
+| where successful_logons >= 0 AND login_failures > 10
