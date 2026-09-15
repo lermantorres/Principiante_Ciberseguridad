@@ -107,7 +107,7 @@ Centralizar los eventos de seguridad en Splunk para posteriormente realizar cons
 
 📷 **Evidencia:**
 
-![Configuración de Splunk](/puerto_escucha.png) 
+![Configuración de Splunk](images/puerto_escucha.png)
 
 ---
 
